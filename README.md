@@ -1,6 +1,6 @@
 <!--![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey!%20%20⚡🤠&text2=💖%20%20Github&width=800&height=250)-->
 <h1 align="center">Hi 👋<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Darshana Wijebahu</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=IT+Third+Year+At+Moratuwa+University!)](https://github.com/ShanCodeWay)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CSE+Core+Pre+Final+Year+At+VIT+Vellore!)](https://github.com/shubhamghb/)
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif">
 
