@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif">
 
-<p align="left"> <a href="https://twitter.com/darshana wijebahu" target="blank"><img src="https://img.shields.io/twitter/follow/darshana wijebahu?logo=twitter&style=for-the-badge" alt="darshana wijebahu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/DWijebahu" target="blank"><img src="https://img.shields.io/twitter/follow/darshana wijebahu?logo=twitter&style=for-the-badge" alt="darshana wijebahu" /></a> </p>
 
 - 🌱 I’m currently learning **React Native, React, Node.js, MongoDB**
 
