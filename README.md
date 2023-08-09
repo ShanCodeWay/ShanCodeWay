@@ -1,3 +1,4 @@
+[![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://rishavchanda.io)
 <!--![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey!%20%20⚡🤠&text2=💖%20%20Github&width=800&height=250)-->
 <h1 align="center">Hi 👋<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Darshana Wijebahu</h1>
 
@@ -30,3 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shancodeway&show_icons=true&locale=en&layout=compact" alt="shancodeway" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shancodeway&show_icons=true&locale=en" alt="shancodeway" /></p>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB1eHhuZjF5bjN6OGlqZHd5amZvdDhlc2M2ZzRiYWpubXRqZjNvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
