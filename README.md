@@ -31,4 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shancodeway&show_icons=true&locale=en&layout=compact" alt="shancodeway" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shancodeway&show_icons=true&locale=en" alt="shancodeway" /></p>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB1eHhuZjF5bjN6OGlqZHd5amZvdDhlc2M2ZzRiYWpubXRqZjNvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img position="relative" align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB1eHhuZjF5bjN6OGlqZHd5amZvdDhlc2M2ZzRiYWpubXRqZjNvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
