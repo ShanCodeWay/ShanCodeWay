@@ -32,3 +32,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shancodeway&show_icons=true&locale=en" alt="shancodeway" /></p>
 <img position="relative" align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB1eHhuZjF5bjN6OGlqZHd5amZvdDhlc2M2ZzRiYWpubXRqZjNvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+ <div style="position: relative; margin: 2rem auto;">
+        <div class="giphy" style="text-align: center; position: absolute; left: 0;">
+            <a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I" target="_blank" rel="noopener noreferrer">
+                <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Giphy">
+            </a>
+        </div>
